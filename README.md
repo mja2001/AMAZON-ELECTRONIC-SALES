@@ -18,7 +18,7 @@ Task List:
 Running the Project:
 Clone this repository.
 Install required libraries using pip install -r requirements.txt.
-Run the Jupyter Notebook(s) or Python script(s) for analysis.
+Run the Jupyter Notebooks or Python scripts for analysis.
 
 Output:
 The analysis will generate visualizations and reports summarizing the findings. These outputs will be located in the project
