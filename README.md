@@ -20,5 +20,13 @@ Running the Project:
 2-Install required libraries using 'pip install -r requirements.txt'.
 3-Run the Jupyter Notebooks or Python scripts for analysis.
 
-Output:
-The project will produce visualizations and reports summarizing the findings, located within the project directory.
+Output:Visualizations and reports summarizing findings.
+
+
+
+
+
+
+
+
+
