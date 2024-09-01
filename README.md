@@ -114,4 +114,4 @@ License
 This project is licensed under the MIT License. For more information, refer to the LICENSE file.
 
 Contact
-For any questions or additional information, please contact [Your Name] at [alayhamalmajali@gmail.com].
+For any questions or additional information, please contact [Your Name] at [alayhamalmajali@gmail.com]
