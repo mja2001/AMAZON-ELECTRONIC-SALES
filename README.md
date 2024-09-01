@@ -49,7 +49,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/amazon-electronics-sales.git
+git clone https://github.com/mja2001/amazon-electronics-sales.git
 Navigate to the Project Directory:
 
 bash
