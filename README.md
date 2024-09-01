@@ -1,8 +1,8 @@
 Amazon Electronics Sales Analysis 
-Overview
+Overview:
 This project focuses on analyzing a dataset of Amazon electronics sales to uncover insights related to sales patterns, customer ratings, and trends within various electronic product categories. The analysis aims to provide valuable information for understanding consumer behavior and product performance on Amazon.
 
-Project Goals
+Project Goals:
 Exploratory Data Analysis (EDA): Gain a thorough understanding of the dataset through initial inspection and statistical summaries.
 Sales and Ratings Analysis: Identify top-performing products and categories, and analyze customer ratings to discern patterns in consumer preferences.
 Data Visualization: Create clear and informative visualizations to present the key findings in a user-friendly manner.
