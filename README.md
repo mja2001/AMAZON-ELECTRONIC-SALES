@@ -1,4 +1,3 @@
-Amazon Electronics Sales Analysis 
 Overview:
 This project focuses on analyzing a dataset of Amazon electronics sales to uncover insights related to sales patterns, customer ratings, and trends within various electronic product categories. The analysis aims to provide valuable information for understanding consumer behavior and product performance on Amazon.
 
